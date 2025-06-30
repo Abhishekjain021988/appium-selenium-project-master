@@ -5,8 +5,6 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
-import com.aventstack.extentreports.reporter.configuration.Theme;
-import com.test.channels.qa.framework.utils.DateUtil;
 import lombok.NoArgsConstructor;
 import org.testng.ITestResult;
 
