@@ -1,0 +1,1 @@
+This directory is used to capture screenshots for failing tests
